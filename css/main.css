@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    font-family: 'Lato', sans-serif;
+    color:white;
+    font-weight: 300;
+}
+.test-muted{
+  color: white;
+}
+.text-thin{
+  font-weight: 200;
+}
+
+.title-super{
+  padding: 5% 0 0 0;
+   font-size: 70px;
+}
+
+.title-logo{
+  margin-top: 20px;
+}
